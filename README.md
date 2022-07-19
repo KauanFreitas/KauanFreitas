@@ -5,6 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-alexandre-1496a61a2/)
 
 ![Kauan GitHub stats](https://github-readme-stats.vercel.app/api?username=KauanFreitas&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauanFreitas)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block"><br>
@@ -18,5 +19,3 @@ Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um prob
 
 ## Email para contato:
 kauan.allexandre@gmail.com 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauanFreitas)](https://github.com/anuraghazra/github-readme-stats)
