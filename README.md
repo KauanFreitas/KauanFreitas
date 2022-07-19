@@ -18,3 +18,5 @@ Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um prob
 
 ## Email para contato:
 kauan.allexandre@gmail.com 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauanFreitas)](https://github.com/anuraghazra/github-readme-stats)
